@@ -97,9 +97,9 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
- <a>
-  <img alt="unity3d" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg ">
-  </a>
+      <a>
+![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
+      </a>
 </div>
 <br>
 <br>
@@ -116,7 +116,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barelysomethin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=barelysomethin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=barelysomethin&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 
