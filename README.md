@@ -110,15 +110,13 @@
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 
-<div class="stats" align="center">
+![](https://github-readme-stats.vercel.app/api?username=barelysomethin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=barelysomethin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barelysomethin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=barelysomethin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=barelysomethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=barelysomethin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-   <img src="https://raw.githubusercontent.com/barelysomethin/barelysomethin/output/snake.svg" alt="Snake animation" />
+---
+
 
