@@ -4,7 +4,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a  full stack software developer. I try to develop applications and websites. Early in my life i realised that creativity is the only Superpower so i started learning how to create.So i started learning various skills, currently my hands are dirty with:
+    I am a  full stack web developer. I try to develop applications and websites. Early in my life i realised that creativity is the only Superpower i could have so i started learning how to create and i started learning some skills, currently am trying to learn or enhance fllowing skills:
 
     FULL-STACK web development(MERN)
     ANDROID DEVELOPMENT(android studio)
@@ -98,7 +98,7 @@
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
  <a>
-  <img alt="unity3d" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg ">
+  <img alt="unity3d" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg ">
   </a>
 </div>
 <br>
@@ -109,11 +109,7 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+
 <div class="stats" align="center">
 
 <div align="center">
