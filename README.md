@@ -4,8 +4,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a  full stack web developer. I try to develop applications and websites. Early in my life i realised that creativity is the only Superpower i could have so i started learning how to create and i started learning some skills, currently am trying to learn or enhance fllowing skills:
-
+    I am a  full stack web developer.currently inconsistently practising following:
     FULL-STACK web development(MERN)
     ANDROID DEVELOPMENT(android studio)
     UI DESIGN(figma, framer, webflow)
