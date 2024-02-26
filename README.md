@@ -4,7 +4,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a  full stack web developer.currently inconsistently practising following:
+    Is a full stack web developer, currently inconsistently practising following:
     
     FULL-STACK web development(MERN)
     ANDROID DEVELOPMENT(android studio)
