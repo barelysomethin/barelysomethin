@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[Email Me](barelyfayz@gmail.com)
+[Email Me](cpdoesahuman@gmail.com)
 </div>
 </p>    
 <br>
